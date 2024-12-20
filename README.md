@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/2671300.jpg)
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">Web Development & Computer Programming</h3>
+<h3 align="center">Web Developer & Computer Programmer</h3>
 
 <p>İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama öğrencisiyim. Programcılık ve fizikle ilgiliyim ayrıca edebiyat ve şiir yazmakla da uğraşırım. Araştırma, yazılım geliştirme ve yeni projeler üretmeye açığım. Hedefim bölümümün alanında yeni çalışmalar ortaya çıkarmak.
 
