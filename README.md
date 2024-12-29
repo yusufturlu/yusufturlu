@@ -11,7 +11,7 @@ I am a Web Design and Codding student at Istanbul Gelisim University. I'm intere
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,php,java,python,linux,ubuntu,vscode,sublime,github,git,django,flask,mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,php,java,python,linux,ubuntu,vscode,sublime,github,git,flask,mysql,postgresql,sqlite" />
 </p>
 
 <h3 align="center">Connect with me</h3>
