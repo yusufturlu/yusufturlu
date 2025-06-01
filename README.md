@@ -4,10 +4,33 @@
 </h1>
 <h3 align="center">Researcher - Founder of phylab.tr - Web Developer & Computer Programmer</h3>
 
-<p>İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama öğrencisiyim. Programcılık ve fizikle ilgiliyim ayrıca edebiyat ve şiir yazmakla da uğraşırım. Araştırma, yazılım geliştirme ve yeni projeler üretmeye açığım. Hedefim bölümümün alanında yeni çalışmalar ortaya çıkarmak.
+<p🇹🇷
+İstanbul Gelişim Üniversitesi Web Tasarımı ve Kodlama bölümü öğrencisiyim. Programlama ve fizik alanlarına ilgi duyuyorum. Ayrıca felsefe ve edebiyatla ilgilenip şiir yazıyorum.
 
+Üç kişilik bir ekibin liderliğini yaparak, öğrenciler ve öğretmenler için fizik öğrenimini kolaylaştıran interaktif simülasyonlar sunan phylab.tr platformunu geliştirdik.
 
-I am a Web Design and Codding student at Istanbul Gelisim University. I'm interested in programming and physics. I also write and poetry. I am open to research, software development and new projects. My goal is to reveal new works in the field of my department.</p>
+Bunun yanı sıra, kuaför sektörü için kullanıcı dostu ve yönetilebilir web tabanlı bir sistem geliştirdik. Bu proje, kapsamlı sektör ve piyasa analizi ile desteklenmiş olup, İstanbul Gelişim Üniversitesi çatısı altında Uluslararası Socretes Kongresi’nde sunulmuş ve akademik dergisinde yayınlanmıştır.
+
+Araştırma, yazılım geliştirme ve yenilikçi projeler üretme konusunda tutkuluyum. Sürekli kendimi geliştiriyor, bilimsel literatüre katkıda bulunuyor ve alanımda fark yaratmayı hedefliyorum.
+
+Profiller:
+ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue
+ORCID: https://orcid.org/0009-0001-5437-9461
+GitHub: https://github.com/yusufturlu
+
+🇬🇧 
+I am a Web Design and Coding student at Istanbul Gelisim University with a strong interest in programming and physics. I also enjoy exploring philosophy and literature, including writing poetry.
+
+I lead a team of three in developing phylab, an interactive platform that makes learning physics more engaging through simulations designed for students and educators.
+
+In addition, I co-developed a user-friendly, manageable web-based system tailored for the hairdressing sector. This project was supported by comprehensive sector analysis and was presented at the International Socretes Congress under Istanbul Gelisim University. It has also been published in an academic journal.
+
+I am passionate about research, software development, and creating innovative projects. Continuously improving my skills, I contribute to scientific literature and strive to make a meaningful impact in my field.
+
+Profiles:
+ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue
+ORCID: https://orcid.org/0009-0001-5437-9461
+GitHub: https://github.com/yusufturlu.</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
