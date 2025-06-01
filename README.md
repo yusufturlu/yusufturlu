@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Researcher - Founder of phylab.tr - Web Developer & Computer Programmer</h3>
 
-<p🇹🇷
+🇹🇷
 İstanbul Gelişim Üniversitesi Web Tasarımı ve Kodlama bölümü öğrencisiyim. Programlama ve fizik alanlarına ilgi duyuyorum. Ayrıca felsefe ve edebiyatla ilgilenip şiir yazıyorum.
 
 Üç kişilik bir ekibin liderliğini yaparak, öğrenciler ve öğretmenler için fizik öğrenimini kolaylaştıran interaktif simülasyonlar sunan phylab.tr platformunu geliştirdik.
@@ -14,8 +14,8 @@ Bunun yanı sıra, kuaför sektörü için kullanıcı dostu ve yönetilebilir w
 Araştırma, yazılım geliştirme ve yenilikçi projeler üretme konusunda tutkuluyum. Sürekli kendimi geliştiriyor, bilimsel literatüre katkıda bulunuyor ve alanımda fark yaratmayı hedefliyorum.
 
 Profiller:
-ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue
-ORCID: https://orcid.org/0009-0001-5437-9461
+ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue <br>
+ORCID: https://orcid.org/0009-0001-5437-9461 <br>
 GitHub: https://github.com/yusufturlu
 
 🇬🇧 
@@ -28,8 +28,8 @@ In addition, I co-developed a user-friendly, manageable web-based system tailore
 I am passionate about research, software development, and creating innovative projects. Continuously improving my skills, I contribute to scientific literature and strive to make a meaningful impact in my field.
 
 Profiles:
-ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue
-ORCID: https://orcid.org/0009-0001-5437-9461
+ResearchGate: https://www.researchgate.net/profile/Yusuf-Tuerlue <br>
+ORCID: https://orcid.org/0009-0001-5437-9461 <br>
 GitHub: https://github.com/yusufturlu.</p>
 
 <h3 align="center">Languages and Tools</h3>
