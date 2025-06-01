@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Yusuf!;" />
 </h1>
-<h3 align="center">Web Developer & Computer Programmer</h3>
+<h3 align="center">Researcher - Founder of phylab.tr - Web Developer & Computer Programmer</h3>
 
 <p>İstanbul Gelişim Üniversitesi Web Tasarım ve Kodlama öğrencisiyim. Programcılık ve fizikle ilgiliyim ayrıca edebiyat ve şiir yazmakla da uğraşırım. Araştırma, yazılım geliştirme ve yeni projeler üretmeye açığım. Hedefim bölümümün alanında yeni çalışmalar ortaya çıkarmak.
 
