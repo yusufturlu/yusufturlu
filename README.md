@@ -5,11 +5,13 @@
 <h3 align="center">Researcher - Founder of phylab.tr - Web Developer & Computer Programmer</h3>
 
 🇹🇷
-İstanbul Gelişim Üniversitesi Web Tasarımı ve Kodlama bölümü öğrencisiyim. Programlama ve fizik alanlarına ilgi duyuyorum. Ayrıca felsefe ve edebiyatla ilgilenip şiir yazıyorum.
+İstanbul Gelişim Üniversitesi Web Tasarımı ve Kodlama bölümü mezunuyum. Programlama ve fizik alanlarına ilgi duyuyorum. Ayrıca felsefe ve edebiyatla ilgilenip şiir yazıyorum.
 
 Üç kişilik bir ekibin liderliğini yaparak, öğrenciler ve öğretmenler için fizik öğrenimini kolaylaştıran interaktif simülasyonlar sunan phylab.tr platformunu geliştirdik.
 
 Bunun yanı sıra, kuaför sektörü için kullanıcı dostu ve yönetilebilir web tabanlı bir sistem geliştirdik. Bu proje, kapsamlı sektör ve piyasa analizi ile desteklenmiş olup, İstanbul Gelişim Üniversitesi çatısı altında Uluslararası Socretes Kongresi’nde sunulmuş ve akademik dergisinde yayınlanmıştır.
+
+11. Uluslararası Azerbaycan Yaşam, Mühendislik, Matematik ve Uygulamalı Bilimler Kongresi’nde ise Phylab adlı çalışmamızı sunup aynı şekilde Kongre Dergisinde yayınlayarak akademik bir değer ve bilim literatürüne katkı sağlamış olduk.
 
 Araştırma, yazılım geliştirme ve yenilikçi projeler üretme konusunda tutkuluyum. Sürekli kendimi geliştiriyor, bilimsel literatüre katkıda bulunuyor ve alanımda fark yaratmayı hedefliyorum.
 
